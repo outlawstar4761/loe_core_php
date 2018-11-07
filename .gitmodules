@@ -1,0 +1,6 @@
+[submodule "libs/mp3Reader"]
+	path = libs/mp3Reader
+	url = https://github.com/outlawstar4761/mp3Reader_php
+[submodule "libs/record"]
+	path = libs/record
+	url = https://github.com/outlawstar4761/record_php
